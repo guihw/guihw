@@ -1,6 +1,6 @@
 ###
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C45B7C&repeat=false&width=435&lines=Bem+vindo+ao+meu+perfil!;Sou+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;em+busca+de+melhorar+minhas+habilidades+de+programa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C45B7C&multiline=true&repeat=false&width=700&height=100&lines=Bem+vindo+ao+meu+perfil!;Sou+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;em+busca+de+melhorar+minhas+habilidades+de+programa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
 
 ###
 
