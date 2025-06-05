@@ -1,3 +1,9 @@
+###
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C45B7C&repeat=false&width=435&lines=Bem+vindo+ao+meu+perfil!;Sou+estudante+de+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;em+busca+de+melhorar+minhas+habilidades+de+programa%C3%A7%C3%A3o.)](https://git.io/typing-svg)
+
+###
+
 <h6 align="left">Desenvolvedor Fullstack</h6>
 
 ###
@@ -10,11 +16,7 @@
 
 ###
 
-<p align="left">Mais energético do que café atualmente, me aprofundo em JavaScript, com foco em APIs, React e testes utilizando JUnit. Gosto de código que funciona — e mais ainda de entender por que funciona.</p>
-
-###
-
-<p align="left">Também dedico tempo ao desenvolvimento do raciocínio algorítmico, resolvendo problemas de estruturas de dados e algoritmos (DSA) com Python no LeetCode.<br>Sou fascinado por linguagens — não apenas de programação. Tenho inglês avançado (C1) e estou aprendendo francês, motivado por um interesse genuíno em comunicação e estrutura lógica em diferentes contextos.</p>
+<p align="left">Mais energético do que café atualmente, me aprofundo em JavaScript, com foco em APIs, React e testes utilizando JUnit. Gosto de código que funciona — e mais ainda de entender por que funciona. Também dedico tempo ao desenvolvimento do raciocínio algorítmico, resolvendo problemas de estruturas de dados e algoritmos (DSA) com Python no LeetCode.<br>Sou fascinado por linguagens — não apenas de programação. Tenho inglês avançado (C1) e estou aprendendo francês, motivado por um interesse genuíno em comunicação e estrutura lógica em diferentes contextos.</p>
 
 ###
 
