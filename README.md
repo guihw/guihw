@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">Mais energético do que café atualmente, me aprofundo em JavaScript, com foco em APIs, React e testes utilizando JUnit. Gosto de código que funciona — e mais ainda de entender por que funciona. Também dedico tempo ao desenvolvimento do raciocínio algorítmico, resolvendo problemas de estruturas de dados e algoritmos (DSA) com Python no LeetCode.<br>Sou fascinado por linguagens — não apenas de programação. Tenho inglês avançado (C1) e estou aprendendo francês.</p>
+<p align="left">Mais energético do que café, atualmente, estou aprendendo banco de dados relacionais e NOSQL, testes unitários, React e design responsivo para aprimoramento das minhas skills como fullstack. Gosto de código que funciona — e mais ainda de entender por que funciona. Também dedico tempo ao desenvolvimento do raciocínio algorítmico, resolvendo problemas de estruturas de dados e algoritmos (DSA) com Python no LeetCode.<br>Sou fascinado por linguagens — não apenas de programação. Tenho inglês avançado certificado (C1) e estudo francês por conta.</p>
 
 ###
 
