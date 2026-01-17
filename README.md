@@ -16,7 +16,10 @@
 
 ###
 
-<p align="left">Mais energético do que café, atualmente, estou aprendendo banco de dados relacionais e NOSQL, testes unitários, React e design responsivo para aprimoramento das minhas skills como fullstack. Gosto de código que funciona — e mais ainda de entender por que funciona. Também dedico tempo ao desenvolvimento do raciocínio algorítmico, resolvendo problemas de estruturas de dados e algoritmos (DSA) com Python no LeetCode.<br>Sou fascinado por linguagens — não apenas de programação. Tenho inglês avançado certificado (C1) e estudo francês por conta.</p>
+<p align="left">Mais energético do que café, atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento backend em Java, utilizando Spring Framework (Spring Boot, APIs REST, JPA/Hibernate).
+Estudo construção de aplicações orientadas a objetos, integração com bancos de dados relacionais (PostgreSQL/MySQL), criação de APIs RESTful, além do uso de boas práticas de arquitetura, versionamento com Git e testes básicos.
+
+Como complemento, também possuo conhecimentos em Node.js, Express e React.</p>
 
 ###
 
@@ -25,6 +28,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
